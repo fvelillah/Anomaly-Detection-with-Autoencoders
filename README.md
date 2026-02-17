@@ -29,7 +29,7 @@ A more advanced framework based on the paper "Self-supervised training with auto
 
 * **Stacked Dilated Convolutions (SDC):** The bottleneck consists of SDC blocks with varying dilation rates (1, 2, 4, 8, 16, 32) to capture multi-scale spatial context.
 
-* **Convex Combination Modules (CCM):** Acts as an attention-based skip connection mechanism. It dynamically combines encoder features () and decoder features () using a learned coefficient matrix :
+* **Convex Combination Modules (CCM):** Acts as an attention-based skip connection mechanism. It dynamically combines encoder features and decoder features using a learned coefficient matrix:
 
 <img width="661" height="457" alt="model2_arch(1)" src="https://github.com/user-attachments/assets/95149d1e-b419-49f3-8958-01ab33ef6fb3" />
 
