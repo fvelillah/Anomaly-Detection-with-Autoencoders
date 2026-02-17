@@ -1,6 +1,6 @@
 # Unsupervised Anomaly Detection and Localization in Industrial Images
 
-This repository contains the implementation of unsupervised anomaly detection and localization using **Convolutional Autoencoders (CAEs)**. The project focuses on learning the "normal" manifold of industrial samples from the **MVTec AD** dataset (specifically the "capsule" category) to detect and localize defects without prior exposure to anomalous data.
+This repository contains the implementation of unsupervised anomaly detection and localization using **Convolutional Autoencoders (CAEs)**. The project focuses on learning the "normal" manifold of industrial samples from the [MVTec AD dataset](https://www.mvtec.com/company/research/datasets/mvtec-ad/downloads) (specifically the "capsule" category) to detect and localize defects without prior exposure to anomalous data.
 
 <img width="1600" height="814" alt="csm_dataset_overview_large_6f330dede4" src="https://github.com/user-attachments/assets/9bd4da07-32e4-4252-a2ae-e7f5012d0c4f" />
 
