@@ -6,7 +6,7 @@ This repository contains the implementation of unsupervised anomaly detection an
 
 ## Project Overview
 
-Detecting anomalous regions in images is critical for computer vision tasks such as industrial quality control. This project evaluates two neural architectures trained exclusively on normal images to identify defects through reconstruction error and pixel-wise heatmaps.
+Detecting anomalous regions in images is critical for computer vision tasks such as industrial quality control. This project evaluates two neural architectures trained exclusively on normal images to identify defects through reconstruction error and pixel-wise heatmaps. For a detailed explanation of the methodology and results, please refer to the [full report](report_Hamre_Hurtado_Abassi.pdf).
 
 ## Architectures
 
